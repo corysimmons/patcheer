@@ -1,0 +1,11 @@
+{
+  "name": "patcheer",
+  "version": "1.0.0",
+  "author": "Cory Simmons",
+  "description": "A package for managing patches",
+  "main": "index.mjs",
+  "type": "module",
+  "bin": {
+    "patcheer": "./index.mjs"
+  }
+}
