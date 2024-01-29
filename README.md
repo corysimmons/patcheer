@@ -10,3 +10,9 @@ Let's use lodash as an example.
 - Tweak anything in `./patches/lodash`
 - Tweak anything in `./patches/axios`
 - `npx patcheer apply`
+
+## Postinstall
+
+To have it automatically apply patches after you run `npm install` on a project, just add this to your `package.json` scripts.
+
+`"postinstall": "npx patcheer apply"`
