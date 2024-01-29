@@ -5,6 +5,7 @@ Super naive patcher. One command to copy a package folder from `node_modules` to
 ## Getting started
 
 Let's use lodash as an example.
+- `npm i -D patcheer`
 - `npm i lodash axios`
 - `npx patcheer copy lodash`
 - Tweak anything in `./patches/lodash`

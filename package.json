@@ -1,6 +1,6 @@
 {
   "name": "patcheer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Cory Simmons",
   "description": "A package for managing patches",
   "main": "index.mjs",
