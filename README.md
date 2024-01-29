@@ -9,6 +9,7 @@ Let's use lodash as an example.
 - `npm i lodash axios`
 - `npx patcheer copy lodash`
 - Tweak anything in `./patches/lodash`
+- `npx patcheer copy axios`
 - Tweak anything in `./patches/axios`
 - `npx patcheer apply`
 
